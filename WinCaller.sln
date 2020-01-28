@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinCaller", "WinCaller\WinCaller.csproj", "{8AC5F37D-D32E-46CC-9701-40836BB1416D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AC5F37D-D32E-46CC-9701-40836BB1416D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AC5F37D-D32E-46CC-9701-40836BB1416D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AC5F37D-D32E-46CC-9701-40836BB1416D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AC5F37D-D32E-46CC-9701-40836BB1416D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B430D43E-DA02-4139-87B0-349976BEA0A6}
+	EndGlobalSection
+EndGlobal
